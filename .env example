@@ -1,0 +1,2 @@
+PORT=4000
+MONGO_DB=mongodb+srv://renji_riverstone1401:datingAppPassword@cluster0.0enekh1.mongodb.net/dating-app?retryWrites=true
